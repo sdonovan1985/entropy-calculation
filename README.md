@@ -40,3 +40,7 @@ file, and takes in a particular chunksize.
 
 ```scrapeDirectoryTotals``` - Scrapes a specified directory, appends to an
 output file, over the entire files, not just a specified chunksize.
+
+
+## plot.py
+This is from  [Srikanth Sundaresan](https://github.com/ssundaresan/py_utils/blob/master/plot.py). Many thanks Srikanth!
