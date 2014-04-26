@@ -10,7 +10,7 @@ It can be run by itself ```python entropycalc.py filename``` will generate a PDF
 with a histogram of the data in a file. It will print to the terminal the
 entropy of that particular file as well.
 
-# Function definitions
+### Function definitions
 
 ```calc_entropy``` - Calculates the entropy of an array that is pased in.
 
@@ -33,7 +33,7 @@ and calculate the entropy of all files within the input_dir.
 output_file, and calculate the entropy of size_of_chunk byte-wide chunks of the 
 files within the input_dir.
 
-# Function definitions
+### Function definitions
 
 ```scrapeDirectory``` - Scrapes a specified directory, appends to an output 
 file, and takes in a particular chunksize.
